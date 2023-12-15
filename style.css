@@ -1,0 +1,14 @@
+<link ref="stylesheet" href="index.html">
+h1{
+    color: greenyellow;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium ;
+}
+p{
+    color: blue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: small;
+}
+table,th,td{
+    border: 2px dotted red;
+}
